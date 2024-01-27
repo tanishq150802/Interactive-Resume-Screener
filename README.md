@@ -5,7 +5,7 @@ By: [Tanishq Selot](https://github.com/tanishq150802) , A modification of [Pathw
 
 Open Command Prompt. ```cd``` into the cloned repository and use the commands ```docker-compose build``` and ```docker-compose up``` to find the app running on http://localhost:8501/.
 
-### About the App
+## About the App
 ![image](https://github.com/tanishq150802/Interactive-Resume-Screener/assets/81608921/1c670e25-bb30-44f3-aeb3-ed0db4bec646)
 * This tool enables the recruiters to interact with CVs and Job Descriptions, making resume screening interactive and more dynamic. In the example above, the ML Engineer JD is uploaded to the dropbox folder where other candidate CVs are already stored. 
 * [Pathway/llm-app's](https://github.com/pathwaycom/llm-app) seemless vector indexing for Retrieval augmented generation enables the recruiters to take informed decisons by prompting the LLM to rank the CVs based on specific fields/skills from the JD.
@@ -25,6 +25,6 @@ Open Command Prompt. ```cd``` into the cloned repository and use the commands ``
 * streamlit
 * python-dotenv
 
-### References
+## References
 * [Pathway's llm-app](https://github.com/pathwaycom/llm-app)
 * [Streamlit](https://streamlit.io/)
