@@ -1,5 +1,6 @@
 # Interactive-Resume-Screener
-### A real-time LLM App powered by Pathway's llm-app to help recruiters interact with JDs &amp; CVs, and help them take informed decisions
+### A real-time LLM App powered by Pathway's llm-app to help recruiters interact with JDs &amp; CVs, and help them take informed decisions 
+#### (Version 2 powered by RAPTOR's tree organized retrieval can be found [here](https://github.com/tanishq150802/chat_and_validate))
 
 By: [Tanishq Selot](https://github.com/tanishq150802) , A modification of [Pathway's Dropbox AI Chat App](https://github.com/pathway-labs/dropbox-ai-chat) - Instructions to run are similar. Clone this repository to a local folder & install Dropbox and Docker (for containerizing in case Windows OS). 
 
